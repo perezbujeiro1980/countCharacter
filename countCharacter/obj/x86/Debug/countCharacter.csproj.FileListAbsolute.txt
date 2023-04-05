@@ -1,0 +1,4 @@
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter\bin\Debug\countCharacter.exe
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter\bin\Debug\countCharacter.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter\obj\x86\Debug\countCharacter.exe
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter\obj\x86\Debug\countCharacter.pdb
